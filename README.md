@@ -32,7 +32,7 @@ past experiences:
  
 Fields_of_interests: ["Web dev" , "Music"]
 technical_background: [""]
-currently_learning: ["C++", "React", ]
+currently_learning: [ "C++" ]
 will_learn: ["Mern stack "]
 hobbies: ["Basketball", "Cinema", "Competitive Gaming", ]
 ```
