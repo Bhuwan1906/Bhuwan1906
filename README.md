@@ -39,7 +39,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", ]
 
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=313ob3go6on4prlwp27kkrdoqx3u&count=5"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=313ob3go6on4prlwp27kkrdoqx3u&count=5"> 
 </p>
 
 
