@@ -26,12 +26,11 @@ located_in: Tamil Nadu, India
 from: India ()
 Position: Fresher cs Major
 Education: ["Cs Major in VISTAS"]
-company: ;-;
 past experiences:
   - []
  
 Fields_of_interests: ["Web dev" , "Music"]
-currently_learning: [ "C++" ]
+currently_learning: [ "C++" ] 
 will_learn: ["Mern stack "]
 hobbies: ["Basketball", "Cinema", "Competitive Gaming", ]
 ```
